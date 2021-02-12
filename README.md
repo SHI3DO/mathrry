@@ -1,9 +1,9 @@
 # mathrry
-  [![Issues](https://img.shields.io/github/issues/Shio7/mathrry?style=for-the-badge)](https://github.com/Shio7/mathrry/issues)
-  [![Stars](https://img.shields.io/github/stars/Shio7/mathrry?style=for-the-badge)](https://github.com/Shio7/mathrry)
-  [![Forks](https://img.shields.io/github/forks/Shio7/mathrry?style=for-the-badge)](https://github.com/Shio7/mathrry/network/members)
+  [![Issues](https://img.shields.io/github/issues/SHI3DO/mathrry?style=for-the-badge)](https://github.com/SHI3DO/mathrry/issues)
+  [![Stars](https://img.shields.io/github/stars/SHI3DO/mathrry?style=for-the-badge)](https://github.com/SHI3DO/mathrry)
+  [![Forks](https://img.shields.io/github/forks/SHI3DO/mathrry?style=for-the-badge)](https://github.com/SHI3DO/mathrry/network/members)
   [![Downloads](https://img.shields.io/npm/dt/mathrry?style=for-the-badge)](https://www.npmjs.com/package/mathrry)
-  [![License](https://img.shields.io/github/license/Shio7/mathrry?style=for-the-badge)](https://github.com/Shio7/mathrry)  
+  [![License](https://img.shields.io/github/license/SHI3DO/mathrry?style=for-the-badge)](https://github.com/SHI3DO/mathrry)  
   
 Simple Math Module
 
